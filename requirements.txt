@@ -1,0 +1,12 @@
+numpy
+pandas
+openpyxl
+scikit-learn
+joblib
+matplotlib
+seaborn
+pubchempy
+requests
+deepchem
+tensorflow
+rdkit-pypi
