@@ -1,4 +1,4 @@
-# Aptamer-ML-Project
+# Aptamer-ML 
 
 This repository contains a complete computational framework for analyzing DNA/RNA aptamer sequences and predicting their binding properties using machine learning and chemical data. The goal is to make the workflow clear and accessible even for users without a bioinformatics background.
 
